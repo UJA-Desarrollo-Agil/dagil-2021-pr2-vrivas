@@ -1,7 +1,7 @@
 # Undum
 
 
-![Imagen de prueba](./blob/master/imagenes/2_Create issue - agility board.png)
+![Imagen de prueba]("./imagenes/2_Create issue - agility board.png")
 Undum is a game framework for building a sophisticated form of
 hypertext interactive fiction.
 
