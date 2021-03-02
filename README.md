@@ -1,7 +1,7 @@
 # Undum
 
 
-![Imagen de prueba](https://raw.githubusercontent.com/UJA-Desarrollo-Agil/dagil-2021-pr2-vrivas/master/imagenes/2_Create%20issue%20-%20agility%20board.png)
+![Imagen de prueba](./imagenes/2_Create issue - agility board.png)
 Undum is a game framework for building a sophisticated form of
 hypertext interactive fiction.
 
